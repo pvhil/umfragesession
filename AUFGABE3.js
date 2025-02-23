@@ -16,6 +16,8 @@
  * computeConvexHull([{x:0,y:0}, {x:1,y:0}, {x:1,y:1}, {x:0,y:1}, {x:0.5,y:0.5}]); // 4
  * computeConvexHull([{x:0,y:0}, {x:1,y:0}, {x:1,y:1}, {x:0,y:1}, {x:0.5,y:0.5}, {x:0.5,y:0.25}]); // 4.5
  * 
+ * Führe die Aufgabe im untenstehenden "Terminal" mit dem befehl `node AUFGABE3.js` aus.
+ * 
  */
 
 

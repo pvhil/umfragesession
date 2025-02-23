@@ -10,6 +10,7 @@
  * calculateSum([10, 20, 30, 40, 50]); // 150
  * calculateSum([1, 3, 5, 7, 9]); // 25
  *
+ * Führe die Aufgabe im untenstehenden "Terminal" mit dem befehl `node AUFGABE1.js` aus.
  */
 
 

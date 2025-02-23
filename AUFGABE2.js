@@ -9,6 +9,8 @@
  * transformString("Hallo"); // "oLLAH"
  * transformString("JavaScript"); // "TPIRCSAVAJ"
  * transformString("12345"); // "54321"
+ * 
+ * Führe die Aufgabe im untenstehenden "Terminal" mit dem befehl `node AUFGABE2.js` aus.
  */
 
 
